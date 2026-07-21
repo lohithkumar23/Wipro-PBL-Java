@@ -1,0 +1,12 @@
+package LogicBuildingHourPlanforMile1.Day2;
+
+public class Q6Alternate1To99 {
+
+    public static void main(String[] args) {
+
+        for (int i = 1; i <= 99; i += 2) {
+            System.out.print(i + " ");
+        }
+
+    }
+}
